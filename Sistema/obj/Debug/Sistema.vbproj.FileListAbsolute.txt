@@ -1,0 +1,28 @@
+C:\Users\jaime\Documents\Sistemas VB\Sistema VB\Sistema\bin\Debug\Sistema.exe.config
+C:\Users\jaime\Documents\Sistemas VB\Sistema VB\Sistema\bin\Debug\Sistema.exe
+C:\Users\jaime\Documents\Sistemas VB\Sistema VB\Sistema\bin\Debug\Sistema.pdb
+C:\Users\jaime\Documents\Sistemas VB\Sistema VB\Sistema\bin\Debug\Sistema.xml
+C:\Users\jaime\Documents\Sistemas VB\Sistema VB\Sistema\obj\Debug\Sistema.vbprojAssemblyReference.cache
+C:\Users\jaime\Documents\Sistemas VB\Sistema VB\Sistema\obj\Debug\Sistema.F_login.resources
+C:\Users\jaime\Documents\Sistemas VB\Sistema VB\Sistema\obj\Debug\Sistema.Resources.resources
+C:\Users\jaime\Documents\Sistemas VB\Sistema VB\Sistema\obj\Debug\Sistema.vbproj.GenerateResource.cache
+C:\Users\jaime\Documents\Sistemas VB\Sistema VB\Sistema\obj\Debug\Sistema.vbproj.CoreCompileInputs.cache
+C:\Users\jaime\Documents\Sistemas VB\Sistema VB\Sistema\obj\Debug\Sistema.exe
+C:\Users\jaime\Documents\Sistemas VB\Sistema VB\Sistema\obj\Debug\Sistema.xml
+C:\Users\jaime\Documents\Sistemas VB\Sistema VB\Sistema\obj\Debug\Sistema.pdb
+C:\Users\jaime\Documents\Sistemas VB\Sistema VB\Sistema\obj\Debug\Sistema.F_principal.resources
+C:\Users\jaime\Documents\Sistemas VB\Sistema VB\Sistema\obj\Debug\Sistema.F_cliente.resources
+C:\Users\jaime\Documents\Projetos Visual Studio\Sistema VB\Sistema\bin\Debug\Sistema.exe.config
+C:\Users\jaime\Documents\Projetos Visual Studio\Sistema VB\Sistema\bin\Debug\Sistema.exe
+C:\Users\jaime\Documents\Projetos Visual Studio\Sistema VB\Sistema\bin\Debug\Sistema.pdb
+C:\Users\jaime\Documents\Projetos Visual Studio\Sistema VB\Sistema\bin\Debug\Sistema.xml
+C:\Users\jaime\Documents\Projetos Visual Studio\Sistema VB\Sistema\obj\Debug\Sistema.vbprojAssemblyReference.cache
+C:\Users\jaime\Documents\Projetos Visual Studio\Sistema VB\Sistema\obj\Debug\Sistema.F_cliente.resources
+C:\Users\jaime\Documents\Projetos Visual Studio\Sistema VB\Sistema\obj\Debug\Sistema.F_principal.resources
+C:\Users\jaime\Documents\Projetos Visual Studio\Sistema VB\Sistema\obj\Debug\Sistema.F_login.resources
+C:\Users\jaime\Documents\Projetos Visual Studio\Sistema VB\Sistema\obj\Debug\Sistema.Resources.resources
+C:\Users\jaime\Documents\Projetos Visual Studio\Sistema VB\Sistema\obj\Debug\Sistema.vbproj.GenerateResource.cache
+C:\Users\jaime\Documents\Projetos Visual Studio\Sistema VB\Sistema\obj\Debug\Sistema.vbproj.CoreCompileInputs.cache
+C:\Users\jaime\Documents\Projetos Visual Studio\Sistema VB\Sistema\obj\Debug\Sistema.exe
+C:\Users\jaime\Documents\Projetos Visual Studio\Sistema VB\Sistema\obj\Debug\Sistema.xml
+C:\Users\jaime\Documents\Projetos Visual Studio\Sistema VB\Sistema\obj\Debug\Sistema.pdb
